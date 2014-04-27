@@ -2,14 +2,20 @@
   "name": "asarray",
   "description": "",
   "version": "0.0.1",
+  "main": "asarray.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:deathcap/asarray.git"
   },
   "keywords": [
-    "voxel"
+    "array"
   ],
-  "dependencies": {
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
 }
