@@ -1,7 +1,7 @@
 {
   "name": "asarray",
   "description": "convert array-like objects to arrays",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "asarray.js",
   "repository": {
     "type": "git",
