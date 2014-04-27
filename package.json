@@ -1,6 +1,6 @@
 {
   "name": "asarray",
-  "description": "",
+  "description": "convert array-like objects to arrays",
   "version": "0.0.1",
   "main": "asarray.js",
   "repository": {
@@ -8,9 +8,11 @@
     "url": "git@github.com:deathcap/asarray.git"
   },
   "keywords": [
-    "array"
+    "array",
+    "interface",
+    "convert",
+    "reify"
   ],
-  "dependencies": {},
   "scripts": {
     "test": "node test.js"
   },
